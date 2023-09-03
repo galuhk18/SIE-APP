@@ -1,0 +1,58 @@
+.dashboard-column-1:hover {
+  color: #0275d8;
+  cursor: pointer;
+}
+
+.dashboard-column-2:hover {
+  color: #5cb85c;
+  cursor: pointer;
+}
+
+.dashboard-column-3:hover {
+  color: #5bc0de;
+  cursor: pointer;
+}
+
+.dashboard-column-4:hover {
+  color: #f0ad4e;
+  cursor: pointer;
+}
+
+.navbar-brand {
+    position:absolute;
+    left:calc(50% - 30px);
+    top:8px;
+}
+
+.jumbo {
+    background-image: url('../img/bg.png');
+}
+.head {
+    padding: 100px;
+    color: #000;
+    background-color: rgba(255, 255, 255, 0.5) !important;
+}
+
+.bg-side {
+  background: linear-gradient(180deg, #83BAB5 50%, #FFF  120.3%);
+}
+.nav-item a {
+  color: #222 !important;
+}
+
+.nav-item a i {
+  color: #222 !important;
+}
+
+.nav-item a:hover {
+  font-weight: 900 !important;
+  transition: 0.5s;
+}
+
+.sidebar .nav-item .nav-link[data-toggle=collapse].collapsed::after {
+  color: #222 !important;
+}
+
+.sidebar-light .nav-item .nav-link[data-toggle=collapse]::after {
+  color: #222 !important;
+}
